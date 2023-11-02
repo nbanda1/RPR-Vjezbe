@@ -1,5 +1,4 @@
 package ba.unsa.etf.rpr;
-import java.util.ArrayList;
 import java.util.List;
 public class Banka {
     protected long brojRacuna;
