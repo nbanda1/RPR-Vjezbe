@@ -1,6 +1,6 @@
 package ba.unsa.etf.rpr;
 
-public class Osoba {
+public abstract class Osoba {
     protected String ime,prezime;
 
     public Osoba(String ime, String prezime) {
